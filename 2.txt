@@ -1,0 +1,3 @@
+How to remove NGINX from Ubuntu
+22 December 2020 by Korbin Brown
+In this guide, we’ll be going over the step by step instructions to remove NGINX web server and reverse proxy server from Ubuntu Linux. Ubuntu offers us two options for uninstalling the software, either “remove” or “purge.” Read on to learn the difference and find out how to perform either function.
